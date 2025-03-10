@@ -1,2 +1,2 @@
 # aws-s3
-Indetail features of AWS s3 service
+In detail features of AWS s3 service
